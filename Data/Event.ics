@@ -1,0 +1,62 @@
+
+
+        
+        
+                                                                                                                
+                
+                
+        
+            
+                                        
+                                                            
+                                                    
+                        
+                                        
+                                        
+                        
+                
+            
+        
+    
+            BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//avature.net//NONSGML iCalcreator 2.39.1//
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:1777234373680
+DTSTAMP:20260426T201253Z
+DESCRIPTION:Event Details: https://jobs.mckinsey.com/events/LoginRSVP?folde
+ rId=105517
+DTSTART;TZID=America/New_York:20260512T200000
+DTEND;TZID=America/New_York:20260512T210000
+ORGANIZER;CN=-:MAILTO:rsvp@mckinsey.avature.net
+SUMMARY:A Day in the Life of a McKinsey Business Analyst
+END:VEVENT
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-TZINFO:America/New_York[2024b/Partial@1745698373000]
+BEGIN:DAYLIGHT
+TZOFFSETTO:-040000
+TZOFFSETFROM:-050000
+TZNAME:(DST)
+DTSTART:20260308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETTO:-050000
+TZOFFSETFROM:-040000
+TZNAME:(STD)
+DTSTART:20251102T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+END:VCALENDAR    
+
+                    
+    
+    
+    
+    
+    
+    
